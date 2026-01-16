@@ -1,6 +1,6 @@
-# Typst Documentation Mirror
+# Typst Context for Claude
 
-A local markdown mirror of the [Typst documentation](https://typst.app/docs/), scraped for offline reference and LLM context.
+A local markdown mirror of the [Typst documentation](https://typst.app/docs/), scraped for Claude to use for accurate Typst writing.
 
 ## What's Included
 
